@@ -93,7 +93,7 @@
 
 <a name="ywos-1699584333096"></a>[高级篇](#rnrl-1664904101009)
 
-<a name="d95c-1699584333098"></a>[Sentinel（Hystrix）](#sxsr-1664910145443)
+<a name="d95c-1699584333098"></a>[Sentinel（or Hystrix）](#sxsr-1664910145443)
 
 <a name="efdf-1699584333100"></a>[-限流(解决服务雪崩）](#oolh-1699484343150)
 
@@ -1234,7 +1234,7 @@ coordinator节点的作用是什么?
 
 <a name="5hmj-1664453119779"></a><a name="rnrl-1664904101009"></a>**高级篇**
 
-<a name="sxsr-1664910145443"></a>**Sentinel（Hystrix）**
+<a name="sxsr-1664910145443"></a>**Sentinel（or Hystrix）**
 
 <a name="oolh-1699484343150"></a>**-限流(解决服务雪崩）**
 
